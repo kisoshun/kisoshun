@@ -8,7 +8,6 @@
 
 - 🧑‍💻 I'm a application engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @kisoshun](https://twitter.com/kisoshun)
 <br>
 
 
